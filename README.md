@@ -2,7 +2,7 @@
 
 Am a programmer and I do C++.
 
-My GitHub is just for school stuff, my main remote is my [GitLab](https://gitlab.com/kritomas).
+This GitHub is just for school stuff, my main remote is my [GitLab](https://gitlab.com/kritomas).
 
 <!--
 **kritomas/kritomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
